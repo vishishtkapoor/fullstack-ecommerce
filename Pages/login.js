@@ -1,5 +1,5 @@
 export default function loginPage() {
         return(
-            <div>login page here </div>
+            <div className="flex items-center justify-center ">login page here </div>
         )
 }
