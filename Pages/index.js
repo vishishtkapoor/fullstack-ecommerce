@@ -1,8 +1,11 @@
-export default function LoginPage() {
+export default function Home() {
 
     return (
-        <div>
-            login here
+        <div className="justify-center">
+            <button className=" rounded-lg  ">
+                Log in with Google
+            </button>
+                
             </div>
             )
 }
