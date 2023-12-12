@@ -72,21 +72,14 @@ This project is a Twitter clone built using the MERN (MongoDB, Express.js, React
 
 5. Open your browser and navigate to `http://localhost:3000` to access the Twitter clone.
 
-## Contributing
-
-Contributions are welcome! Please follow the [contributing guidelines](CONTRIBUTING.md) to contribute to this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Special thanks to the developers of the MERN stack and other open-source libraries used in this project.
-- Icons used are from [FontAwesome](https://fontawesome.com/).
+The icons used are from [FontAwesome](https://fontawesome.com/).
+-Also i would like to thank few creators from yt that help me build this.
 
 ## Contact
 
-For inquiries or support, please contact [your-email@example.com].
+For inquiries or support, please contact [vishishtkapoor2@gmail.com].
 
 Enjoy tweeting on your MERN stack Twitter clone! 🚀
